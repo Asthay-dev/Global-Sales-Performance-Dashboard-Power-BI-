@@ -1,11 +1,11 @@
 # Global-Sales-Performance-Dashboard-Power-BI-
 2-page interactive Power BI dashboard analyzing $9.6M sales data
-Global Sales Performance Dashboard (Power BI)
- Overview
+
+🔹 Overview
 
 This project presents a 2-page interactive Power BI dashboard built using a global sales dataset. The dashboard tracks key sales KPIs, profitability, and regional performance, while enabling drill-down analysis by product line, customer, and time.
 
- Dataset
+🔹 Dataset
 
 Source: Udemy Guided Project (Sample Sales Dataset)
 
@@ -13,7 +13,7 @@ Size: 9.6M total sales across 326 orders (2003–2005)
 
 Features include: Product line, Country, Customer, Sales, Profit, Order Date
 
- Tools & Techniques
+🔹 Tools & Techniques
 
 Power BI Desktop
 
@@ -23,7 +23,7 @@ DAX measures for KPI calculations
 
 Visuals: KPI cards, Tree Maps, Line Charts, Scatter Plots
 
- Dashboard Highlights
+🔹 Dashboard Highlights
 
 Page 1 – KPI Overview
 
@@ -41,7 +41,7 @@ Customer-level contributions to sales.
 
 Time-series trends across months (2003–2005).
 
- Results
+🔹 Results
 
 Identified Classic Cars as the most profitable product line.
 
